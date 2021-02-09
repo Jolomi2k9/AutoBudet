@@ -1,7 +1,8 @@
-package com.example.autobudget
+package com.example.autobudget.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.autobudget.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
